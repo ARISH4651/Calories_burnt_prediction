@@ -37,18 +37,6 @@ The dataset contains **physiological and activity features** along with the targ
   - `xgboost` → Advanced ML algorithm  
 
 ---
-
-## 🛠️ Installation  
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/calories-burnt-prediction.git
-
-# Navigate to project directory
-cd calories-burnt-prediction
-
-# Install dependencies
-pip install -r requirements.txt
 📈 Results & Insights ✨
  The best performing model is xgboost with an R² score of 99%.
 
@@ -67,7 +55,6 @@ Age shows a weaker correlation
 
  Correlation heatmap between features
 
-(You can add sample plots/images here for better presentation.)
 
 🔮 Future Enhancements
 🚀 Deploy as a Flask/Django web app
