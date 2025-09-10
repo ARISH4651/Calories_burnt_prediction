@@ -39,7 +39,7 @@ The dataset contains **physiological and activity features** along with the targ
 ---
 📈 Results & Insights ✨
  The best performing model is xgboost with an R² score of 99%.
-
+---
 🔑 Key insights:
 
 Weight and Duration strongly influence calories burnt
@@ -48,19 +48,19 @@ Gender has a moderate effect
 
 Age shows a weaker correlation
 
-☑️ This model can be used in fitness apps to estimate calorie burn during workouts.
-
+ This model can be used in fitness apps to estimate calorie burn during workouts.
+---
 🖼️ Visualizations
  Distribution of Age, Height, and Weight
 
  Correlation heatmap between features
 
-
+---
 🔮 Future Enhancements
-🚀 Deploy as a Flask/Django web app
+ Deploy as a Flask/Django web app
 
-📡 Provide an API for calorie prediction
+ Provide an API for calorie prediction
 
-⌚ Integrate with IoT devices (smartwatches, fitness trackers)
+Integrate with IoT devices (smartwatches, fitness trackers)
 
-🤖 Explore deep learning models for higher accuracy
+Explore deep learning models for higher accuracy
